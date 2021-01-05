@@ -1,1 +1,1 @@
-// Your code here
+document.getElementById("dodger").style.backgroundColor = "#FF69B4";
